@@ -1,2 +1,0 @@
-config SHIELD_REDPOLL
-    def_bool $(shields_list_contains,redpoll)
