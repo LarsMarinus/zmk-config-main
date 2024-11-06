@@ -1,0 +1,10 @@
+file_format: "1"
+id: larskeeb
+name: LarsKeeb
+type: shield
+url: https://github.com/LarsMarinus/zmk-config-main
+requires:
+  - pro_micro
+features:
+  - keys
+  - studio
