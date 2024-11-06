@@ -15,5 +15,5 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: uniphant
+    shield: larskeeb
     snippet: studio-rpc-usb-uart
