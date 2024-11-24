@@ -9,10 +9,10 @@
         default_layer {
             display-name = "Base";
             bindings = <
-&kp Q    &kp W           &kp F               &kp P             &kp B     &kp J      &kp L             &kp U               &kp Y           &kp SEMICOLON
-&kp A    &mt LEFT_GUI R  &mt LEFT_CONTROL S  &mt LEFT_SHIFT T  &kp G     &kp M      &mt LEFT_SHIFT N  &mt LEFT_CONTROL E  &mt LEFT_GUI I  &mt LEFT_ALT O
-&kp Z    &kp X           &kp C               &kp D             &kp V     &kp K      &kp H             &kp COMMA           &kp DOT         &kp FSLH
-&kp TAB  &mo 2                               &kp DELETE        &kp BSPC  &kp SPACE  &kp ENTER                             &mo 1           &kp RSHFT
+&kp Q            &kp W           &kp F               &kp P             &kp B     &kp J      &kp L             &kp U               &kp Y           &kp SEMICOLON
+&kp A            &mt LEFT_GUI R  &mt LEFT_CONTROL S  &mt LEFT_SHIFT T  &kp G     &kp M      &mt LEFT_SHIFT N  &mt LEFT_CONTROL E  &mt LEFT_GUI I  &mt LEFT_ALT O
+&kp Z            &kp X           &kp C               &kp D             &kp V     &kp K      &kp H             &kp COMMA           &kp DOT         &kp FSLH
+&kp LEFT_CONTROL &mo 2                               &kp DELETE        &kp BSPC  &kp SPACE  &kp ENTER                             &mo 1           &kp RSHFT
             >;
         };
 
@@ -37,3 +37,4 @@
         };
     };
 };
+o/////o;ooooooo.iyuee,,..iyuelnnnhkmjmmkk////zzzzzzaaaqqqqqq
