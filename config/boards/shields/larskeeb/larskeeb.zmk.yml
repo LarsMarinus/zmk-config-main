@@ -1,6 +1,6 @@
 file_format: "1"
 id: larskeeb
-name: LarsKeeb
+name: VictorKeeb
 type: shield
 url: https://github.com/LarsMarinus/zmk-config-main
 requires:
